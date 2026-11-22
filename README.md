@@ -2,7 +2,7 @@
 Official GitHub PAge: Carlos M. Arroyave V.
 Welcome to my website repository. The website will show you many of my projects.
 --
-[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://carroyav02.github.io/Resumee/)
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://carroyav02.github.io/)
 --
 
 ## About the Website
