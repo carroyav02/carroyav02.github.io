@@ -6,7 +6,7 @@ Welcome to my website repository. The website will show you many of my projects.
 --
 
 ## About the Website
-This website shows my portfolio, showcasing my expertise in Physics, Mathematics, Electrical Engineering, IC Failure Analysis, and EPUBs-Web APPS development.
+This website shows my portfolio, showcasing my expertise in Physics, Mathematics, Electrical Engineering, IC Failure Analysis, and EPUBs-WebAPPs development.
 
 ## License and Restrictions
 This repository *is not open source*. The code, assets and content are *protected* and may *not* be copied, modified, or used for commercial use without permission from the author.
